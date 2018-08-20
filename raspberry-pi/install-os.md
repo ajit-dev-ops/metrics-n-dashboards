@@ -15,3 +15,5 @@ Download [raspbian](https://www.raspberrypi.org/downloads/raspbian/) os and then
 
 Insert card to pi ans start it.
 
+# configuring chromium and stoping pi from switching itself off
+https://medium.com/@alexjv89/setting-up-a-dashboard-on-raspberry-pi-4e6e2e37ddbb
